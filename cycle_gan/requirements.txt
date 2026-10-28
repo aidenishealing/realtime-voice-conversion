@@ -15,7 +15,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 librosa==0.7.0
 llvmlite==0.29.0
-Markdown==3.1.1
+Markdown==3.8.1
 numba==0.45.0
 numpy==1.16.4
 protobuf==3.9.0
